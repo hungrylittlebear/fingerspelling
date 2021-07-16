@@ -33,6 +33,7 @@ The speed in which the hand is fingerspelling is variable and can be modified wi
 A demonstration of how movement is modeled through the progression throughout the entire alphabet is shown below.
 
 <img src="alpha.gif" width="100%">
+
 _ASL alphabet_
 
 
