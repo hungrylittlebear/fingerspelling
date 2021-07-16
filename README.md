@@ -17,7 +17,7 @@ There are several ways that a hand position could be modeled, similarly to how a
 
 <img src="I.PNG" width="100%">
 
-the letter I
+_the letter I_
 
 
 
@@ -33,7 +33,7 @@ The speed in which the hand is fingerspelling is variable and can be modified wi
 A demonstration of how movement is modeled through the progression throughout the entire alphabet is shown below.
 
 <img src="alpha.gif" width="100%">
-<em>ASL alphabet</em>
+_ASL alphabet_
 
 
 There are two special cases to make note of and both are covered with the following demonstration of "hello world". First is spaces - a space is used deliminate between words, which is characterized in ASL with a pause on the last letter. The second is a double-letter, this is accomplished in ASL with a slide. Both have been accounted for and are available to be witnessed below.
@@ -41,4 +41,4 @@ There are two special cases to make note of and both are covered with the follow
 
 <img src="hello_world.gif" width="100%">
 
-<em>"hello world"</em>
+_hello world_
